@@ -27,5 +27,5 @@ Such patterns are common in real estate markets, where the majority of propertie
 
 This project further used machine learning  to predict house prices using Python Programming Language.
 
-Click here to see the codes [Codes](https://github.com/Ainaganiu/House-Price-Prediction-in-Nigeria/blob/main/housing_prediction_challenge.ipynb)
+Click here to see the codes [Click here to see](https://github.com/Ainaganiu/House-Price-Prediction-in-Nigeria/blob/main/housing_prediction_challenge.ipynb)
 
